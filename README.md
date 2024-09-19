@@ -98,5 +98,3 @@ to discuss what you would like to change.
 
 - Palaniselvam Shyam Sundar (palaniselvam.s@northeastern.edu) 
 - Niraj Komalkant Malpani(malpani.n@northeastern.edu)
-- Prashanth Baskar(baskar.pr@northeastern.edu)
-- Sahil Mutha (mutha.sa@northeastern.edu)
